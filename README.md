@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @Foreign Language School Affiliated with Beijing Normal University Zhuhai -dayumsista
-- 👋 北京师范大学珠海分校附属外国语学校 -dayumsista
+- 👋 Hi, I’m Dayumsista
 
 - 🌱 I’m currently learning Python
 - 🌱 正在学习Python
