@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Dayumsista, Moderator of Swan Overwatch
+- 👋 Hi, I’m Dayumsista
 
 - 🌱 I’m currently learning Python
 
